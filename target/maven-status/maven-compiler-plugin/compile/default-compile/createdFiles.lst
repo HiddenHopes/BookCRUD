@@ -1,0 +1,9 @@
+com\hiddenhopes\spring\dao\BookDaoImp.class
+com\hiddenhopes\spring\config\MyWebAppInitializer.class
+com\hiddenhopes\spring\config\AppConfig.class
+com\hiddenhopes\spring\controller\BookController.class
+com\hiddenhopes\spring\dao\BookDao.class
+com\hiddenhopes\spring\service\BookService.class
+com\hiddenhopes\spring\service\BookServiceImpl.class
+com\hiddenhopes\spring\config\WebConfig.class
+com\hiddenhopes\spring\model\Book.class
